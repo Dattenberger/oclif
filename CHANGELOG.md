@@ -1,3 +1,53 @@
+## [4.4.12](https://github.com/oclif/oclif/compare/4.4.11...4.4.12) (2024-02-15)
+
+### Bug Fixes
+
+- respect tsconfig outDir when generating hook ([#1293](https://github.com/oclif/oclif/issues/1293)) ([dcca71a](https://github.com/oclif/oclif/commit/dcca71a226fd54e63f822740404564ed34326574))
+
+## [4.4.11](https://github.com/oclif/oclif/compare/4.4.10...4.4.11) (2024-02-12)
+
+### Bug Fixes
+
+- **deps:** bump @aws-sdk/client-cloudfront from 3.504.0 to 3.511.0 ([494afde](https://github.com/oclif/oclif/commit/494afde735836d374968e1423d85b9e3ca4d7367))
+
+## [4.4.10](https://github.com/oclif/oclif/compare/4.4.9...4.4.10) (2024-02-11)
+
+### Bug Fixes
+
+- **deps:** bump @oclif/plugin-not-found from 3.0.9 to 3.0.10 ([fb86b55](https://github.com/oclif/oclif/commit/fb86b5518f2a58e5f852a054088db30855452037))
+
+## [4.4.9](https://github.com/oclif/oclif/compare/4.4.8...4.4.9) (2024-02-11)
+
+### Bug Fixes
+
+- **deps:** bump @oclif/core from 3.18.2 to 3.19.1 ([cdfb793](https://github.com/oclif/oclif/commit/cdfb7933d661a4db77670a7228bf238e926fa60d))
+
+## [4.4.8](https://github.com/oclif/oclif/compare/4.4.7...4.4.8) (2024-02-09)
+
+### Bug Fixes
+
+- make eslint plugin a dev dependency ([#1262](https://github.com/oclif/oclif/issues/1262)) ([319c4f0](https://github.com/oclif/oclif/commit/319c4f056b4a1e564b6e573e13bf034cb38dca91))
+
+## [4.4.7](https://github.com/oclif/oclif/compare/4.4.6...4.4.7) (2024-02-06)
+
+### Bug Fixes
+
+- update logic for exclusion from Windows Defender scans ([#1276](https://github.com/oclif/oclif/issues/1276)) ([09a4409](https://github.com/oclif/oclif/commit/09a440924b1689f63481811d5f88509bf6896610))
+
+## [4.4.6](https://github.com/oclif/oclif/compare/4.4.5...4.4.6) (2024-02-05)
+
+### Bug Fixes
+
+- **deps:** bump @aws-sdk/client-cloudfront from 3.501.0 to 3.504.0 ([#1277](https://github.com/oclif/oclif/issues/1277)) ([47dd2c9](https://github.com/oclif/oclif/commit/47dd2c9758f1e361b79b5df1e73ecaa55d26e612))
+
+## [4.4.5](https://github.com/oclif/oclif/compare/4.4.4...4.4.5) (2024-02-05)
+
+## [4.4.4](https://github.com/oclif/oclif/compare/4.4.3...4.4.4) (2024-02-04)
+
+### Bug Fixes
+
+- **deps:** bump @aws-sdk/client-s3 from 3.496.0 to 3.504.0 ([244f5a4](https://github.com/oclif/oclif/commit/244f5a487054facc630010ed8ca0285a09fe622d))
+
 ## [4.4.3](https://github.com/oclif/oclif/compare/4.4.2...4.4.3) (2024-02-04)
 
 ### Bug Fixes
